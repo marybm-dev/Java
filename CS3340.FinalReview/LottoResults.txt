@@ -1,0 +1,4 @@
+Winning numbers 1, 14, 6
+Winning numbers 19, 6, 2
+Winning numbers 29, 22, 6
+Winning numbers 2, 5, 5

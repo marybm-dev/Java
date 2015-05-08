@@ -1,0 +1,5 @@
+PF	Draymond	Green	23
+C	Andrew	Bogut	12
+SF	Harrison	Barnes	40
+SG	Klay	Thompson	11
+PG	Stephen	Curry	30
